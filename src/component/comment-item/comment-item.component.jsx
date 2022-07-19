@@ -8,18 +8,12 @@ import {
   IconMinus,
   IconPlus,
   LikeIcon,
-  LikeIconMinus,
-  LikeIconPlus,
   LikeNumber,
   Reply,
-  ReplyBtn,
-  ReplyElementsContainer,
   ReplyIcon,
   UserIcon,
   UserName,
 } from "./comment-item.style";
-import Button from "react-bootstrap/esm/Button";
-import Stack from "react-bootstrap/esm/Stack";
 import ReplySection from "../reply/reply.components";
 // import PUser from "../../images/avatars/image-amyrobson.png";
 
