@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc222bdb.css",
-    "main.js": "/static/js/main.7f6f1f58.js",
-    "static/media/image-amyrobson.webp": "/static/media/image-amyrobson.974bbf3c9ffb709f30a0.webp",
-    "static/media/image-juliusomo.webp": "/static/media/image-juliusomo.595ca29b9049f4c6ce66.webp",
-    "static/media/image-maxblagun.webp": "/static/media/image-maxblagun.e423f15841d76f3a5361.webp",
-    "static/media/image-ramsesmiron.webp": "/static/media/image-ramsesmiron.62a67681169b8dcdc378.webp",
-    "index.html": "/index.html",
-    "static/media/icon-plus.svg": "/static/media/icon-plus.0037a825a550965779412c2890bd328b.svg",
-    "static/media/icon-reply.svg": "/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
-    "static/media/icon-minus.svg": "/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
-    "main.dc222bdb.css.map": "/static/css/main.dc222bdb.css.map",
-    "main.7f6f1f58.js.map": "/static/js/main.7f6f1f58.js.map"
+    "main.css": "/react-interactive-comment-section/static/css/main.dc222bdb.css",
+    "main.js": "/react-interactive-comment-section/static/js/main.d206e491.js",
+    "static/media/image-amyrobson.webp": "/react-interactive-comment-section/static/media/image-amyrobson.974bbf3c9ffb709f30a0.webp",
+    "static/media/image-juliusomo.webp": "/react-interactive-comment-section/static/media/image-juliusomo.595ca29b9049f4c6ce66.webp",
+    "static/media/image-maxblagun.webp": "/react-interactive-comment-section/static/media/image-maxblagun.e423f15841d76f3a5361.webp",
+    "static/media/image-ramsesmiron.webp": "/react-interactive-comment-section/static/media/image-ramsesmiron.62a67681169b8dcdc378.webp",
+    "index.html": "/react-interactive-comment-section/index.html",
+    "static/media/icon-plus.svg": "/react-interactive-comment-section/static/media/icon-plus.0037a825a550965779412c2890bd328b.svg",
+    "static/media/icon-reply.svg": "/react-interactive-comment-section/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-minus.svg": "/react-interactive-comment-section/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
+    "main.dc222bdb.css.map": "/react-interactive-comment-section/static/css/main.dc222bdb.css.map",
+    "main.d206e491.js.map": "/react-interactive-comment-section/static/js/main.d206e491.js.map"
   },
   "entrypoints": [
     "static/css/main.dc222bdb.css",
-    "static/js/main.7f6f1f58.js"
+    "static/js/main.d206e491.js"
   ]
 }
